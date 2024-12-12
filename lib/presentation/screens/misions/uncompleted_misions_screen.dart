@@ -8,7 +8,7 @@ class UncompletedMisionsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Pendientes'),
+        title: const Text('Pendientes'),
       ),
     );
   }
